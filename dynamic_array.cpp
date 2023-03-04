@@ -1,4 +1,4 @@
-// a program for dynamic array!hfsgfqdgf
+// a program for dynamic array
 #include <iostream>
 #include <new>
 using namespace std;
