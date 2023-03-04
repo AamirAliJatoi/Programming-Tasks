@@ -91,7 +91,7 @@ void display(Node* head)
 //main function
 int main()
 {
-	//initializing size, value and delete variable to ask the molvi how much size it wants and value to ask Umer ghana khapai and to ask shahzaman cha delete kayoo
+	//initializing size, value and delete variable to ask the user how much size it wants and value to ask user what value it wants and to ask user what to delete
 	int size,val,dlt;
 	//new var to add into head value and at given index
 	int athead,atgiven,givenind;
