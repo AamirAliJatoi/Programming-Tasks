@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//creating stack and variavles top and size
+//creating stack and variables top and size
 int* stack;
 int top = 0,size;
 
@@ -50,7 +50,7 @@ int main()
 		cout<<"\nDo You want to pop an other element (y/n)? \n";
 		cin>>choice;
 	}
-	//loop to delete values
+	//loop to Traverse values
 	for(int x = top-1; x >= 0; x--)
 	cout<<endl<<stack[x];
 }
